@@ -1,1 +1,1 @@
-# mobile-programming
+# Repositório para as atividades feitas na disciplina de Programação para dispositivos Móveis 📲
